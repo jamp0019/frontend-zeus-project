@@ -4,25 +4,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+ Before execute the front project, you must run the backend on 8080 port.
 
-## Code scaffolding
+ Go to the root project directory and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instructions to use demo platform
 
-## Build
+1. List all employees:
+![list-all-employees.png](src%2Fassets%2Fimg%2Flist-all-employees.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. Get employee by id:
+![get-employee-by-id.png](src%2Fassets%2Fimg%2Fget-employee-by-id.png)
 
-## Running unit tests
+3. Employee not exist:
+![employee-not-exist.png](src%2Fassets%2Fimg%2Femployee-not-exist.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# frontend-zeus-project" 
+4. Contact form:
+![contact-form.png](src%2Fassets%2Fimg%2Fcontact-form.png)
